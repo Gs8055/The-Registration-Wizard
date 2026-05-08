@@ -1,0 +1,1 @@
+what i want that the body color show other color and the area of the specific form is white color in background and both the button should be cover the entire row and the prev button show in grey and the next button should show as per the color combination
